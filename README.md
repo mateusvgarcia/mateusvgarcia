@@ -4,6 +4,3 @@
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateusvgarcia&layout=compact)
-
-
-![Tempo de mateus](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)
