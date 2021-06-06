@@ -1,4 +1,4 @@
 ### Hi there 👋
 
-![Teste github stats](https://github-readme-stats.vercel.app/api?username=mateusvgarcia&show_icons=true&theme=onedark)
+![Teste github stats](https://github-readme-stats.vercel.app/api?username=mateusvgarcia&show_icons=true&theme=synthwave)
 )
