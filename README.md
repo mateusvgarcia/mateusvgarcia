@@ -7,8 +7,8 @@
 
 
 <div style="display: inline_block"><br>
- <img align="center" alt="Rafa-yoda" src="https://media.giphy.com/media/PntYMdYbnjaRa/giphy.gif">
- <img align="center" alt="Rafa-yoda" src="https://media.giphy.com/media/sO5derwxGq1Z6/giphy.gif">
+ <img align="right" alt="Rafa-yoda" src="https://media.giphy.com/media/PntYMdYbnjaRa/giphy.gif">
+ <img align="left" alt="Rafa-yoda" src="https://media.giphy.com/media/sO5derwxGq1Z6/giphy.gif">
 </div>
 
 <div style="display: inline_block"><br>
