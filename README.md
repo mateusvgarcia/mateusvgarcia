@@ -7,8 +7,8 @@
 
 
 <div style="display: inline_block"><br>
- <img align="right" height="300" width="400" src="https://media.giphy.com/media/PntYMdYbnjaRa/giphy.gif">
- <img align="left" height="300" width="400" src="https://media.giphy.com/media/sO5derwxGq1Z6/giphy.gif">
+ <img align="center" height="300" width="400" src="https://media.giphy.com/media/PntYMdYbnjaRa/giphy.gif">
+ <img align="center" height="300" width="400" src="https://media.giphy.com/media/sO5derwxGq1Z6/giphy.gif">
 </div>
 
 <div style="display: inline_block"><br>
