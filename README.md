@@ -2,7 +2,7 @@
 
 <div style="display: inline_block"><br>
  <img height="180em" height="300" width="400" src="https://github-readme-stats.vercel.app/api?username=mateusvgarcia&show_icons=true&theme=dracula"/>
- <img height="180em" height="300" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusvgarcia&layout=compact"/>
+ <img height="180em" height="350" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusvgarcia&layout=compact"/>
 </div>
 
 
