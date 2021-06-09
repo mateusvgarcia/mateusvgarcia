@@ -25,4 +25,4 @@
 </div>
 
 
-<!--![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MateusGarcia)--!>
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MateusGarcia)
