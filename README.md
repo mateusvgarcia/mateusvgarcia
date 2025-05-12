@@ -1,4 +1,4 @@
-### Salve <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">
+### Olá <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">
 
 <div style="display: inline_block"><br>
   <img src=https://github-readme-stats.vercel.app/api?username=mateusvgarcia&count_private=true&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true />
